@@ -1,5 +1,4 @@
 {
-  " This action will link your newly created strategy to your manager contract, allowing the manager to control the strategy.": " This action will link your newly created strategy to your manager contract, allowing the manager to control the strategy.",
   "{{action}} failed": "{{action}} failed",
   "{{action}} fallback, your tokens will arrive shortly.": "",
   "{{action}} pending": "",
@@ -1164,7 +1163,6 @@
   "Wait for unstake": "",
   "Wait for update user boost": "",
   "Wallet address or ENS name": "",
-  "Wallet Address or ENS name": "",
   "Warning": "Warning",
   "Web app": "",
   "When the price reaches either the top or bottom rebalance range, the position will be rebalanced to become evenly distributed between the two assets. Meaning that we will sell the asset that": "When the price reaches either the top or bottom rebalance range, the position will be rebalanced to become evenly distributed between the two assets. Meaning that we will sell the asset that",

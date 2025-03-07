@@ -1,5 +1,4 @@
 {
-  " This action will link your newly created strategy to your manager contract, allowing the manager to control the strategy.": " This action will link your newly created strategy to your manager contract, allowing the manager to control the strategy.",
   "{{action}} failed": "{{action}} failed",
   "{{action}} fallback, your tokens will arrive shortly.": "",
   "{{action}} pending": "",
